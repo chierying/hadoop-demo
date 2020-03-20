@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import java.io.IOException;
 
 /**
- * 应用主类
+ * 2个字段排序
  */
 public class MySecondSortApp {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
